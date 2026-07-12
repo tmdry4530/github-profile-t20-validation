@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+  pull-requests: read
 
 concurrency:
   group: github-profile-${{ github.ref }}
@@ -28,3 +28,4 @@ jobs:
           github-token: ${{ github.token }}
           config-path: github-profile.config.json
           default-branch: ${{ github.event.repository.default_branch }}
+
