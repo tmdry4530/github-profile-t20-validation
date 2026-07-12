@@ -23,7 +23,7 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: 프로필 갱신
-        uses: tmdry4530/github-profile@74e76baf24abe204554cdbea9a71f7ebd66d1950 # github-profile action v0.0.0
+        uses: tmdry4530/github-profile@2b428c538d153809034231c8b7d6522c86d2f79b # github-profile action v0.0.0
         with:
           github-token: ${{ github.token }}
           config-path: github-profile.config.json
