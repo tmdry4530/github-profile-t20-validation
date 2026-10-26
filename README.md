@@ -51,6 +51,6 @@ renaiss-slab is a recent public project with 1 star and 0 forks.
 
 ## Public activity
 
-- Collected public events include push and pull request activity. — 49 supporting records
-- Collected public events include collaboration activity. — 5 supporting records
+- Collected public events include push and pull request activity. — 12 supporting records
+- Collected public events include collaboration activity. — 11 supporting records
 <!-- github-profile:managed:end -->
